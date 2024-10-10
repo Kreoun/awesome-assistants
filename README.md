@@ -1,4 +1,4 @@
-# Awesome assistants 
+# Awesome assistants Chomraeun.Chin
 
 > A curated list of awesome AI assistants  
 
